@@ -1,0 +1,19 @@
+.route-item {
+  background: #e1dfdf;
+  padding: 10px;
+  margin-bottom: 8px;
+  border-radius: 15px;
+  width: 30%;
+  color: black;
+}
+
+.highlight {
+  background: #adf1ad;
+  color: rgb(4, 105, 4);
+}
+
+.list {
+    list-style-type: none;
+    margin: 40px 20px;
+    justify-items: center;
+}
